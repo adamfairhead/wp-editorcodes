@@ -1,4 +1,4 @@
-# WP Shortcodes
+# WP Editorcodes
 
 This repo contains any shortcodes I find myself needing over and over; things that may be useful for content editors when structuring content in the WYSIWYG.
 
