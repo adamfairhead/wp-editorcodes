@@ -1,0 +1,11 @@
+# Always ignore files with these extensions
+*.diff
+*.err
+*.log
+*.vi
+*~
+*.sass-cache
+
+# Always ignore OS / Editor folders & files
+.DS_Store
+Thumbs.db
